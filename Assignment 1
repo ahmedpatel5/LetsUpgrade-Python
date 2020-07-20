@@ -1,0 +1,32 @@
+What is Python:
+Python is a programming language. It was developed by Guido Van Rossum in 1991 and it has become one of the most popular programming languages in the world near about 2006. It is easy to learn, typically involves less amount of code, syntax is easier to read and it has huge amount of open source libraries.
+
+Ways to install Python:
+Download and Install Python from its official site
+Download and Install Anaconda which is an all in one package for Python and other useful tools
+
+2} What are Code Environments?Types?
+
+A Code Environment is a place where you can write down and compile your code and see the output.
+There are 3 main types of environments:
+1. Text Editor
+2. Full IDEs
+3. Notebook Environments
+
+Text Editor:
+General editor for any text file
+Works with a variety of files
+Can be customized with plug-ins and add-ons
+Most Popular: Visual Code Studio and Atom
+
+Full IDEs:
+Development Environments designed specifically for Python with lots of extra functionalities
+Larger programs and only community editions are free
+Most Popular: PyCharm and Spyder
+
+Notebook Environments:
+Great for Learning
+See input and output next to each other
+Support in-line markdown notes, visualizations, videos and more
+Special file formats that are not .py
+Most popular: Jupyter Notebook
